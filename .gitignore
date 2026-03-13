@@ -8,6 +8,7 @@ Build/
 # Exclude entire Content folder except Blueprints
 Content/*
 !Content/Blueprints/
+!Content/ALS/
 !Content/Blueprints/**
 
 # IDE folders and files
